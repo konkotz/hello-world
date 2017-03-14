@@ -1,2 +1,3 @@
 # hello-world
-Introductory project
+
+Hello everybody. My name is Konstantinos
